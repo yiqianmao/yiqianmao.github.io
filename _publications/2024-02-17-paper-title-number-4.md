@@ -3,7 +3,7 @@ title: "Mesh-Splitting Impedance Transition Boundary Condition for Accurate Mode
 collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about fixing template issue #693.'
-date: 2023-02-15
+date: 2023-05-01
 venue: 'IEEE TAP'
 paperurl: 'https://ieeexplore.ieee.org/document/10045742'
 citation: 'Yiqian Mao et al. (2023). &quot;Mesh-Splitting Impedance Transition Boundary Condition for Accurate Modeling of Thin Structures.&quot; <i>IEEE TAP</i>. 71(5).'
