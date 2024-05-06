@@ -11,16 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Electrical and Computer Engineering, Duke University, 2020
+* Ph.D. in Electrical and Computer Engineering, Duke University, 2020
   * Dissertation: Fast Electromagnetic Simulation for Large-Scale Modeling of Doubly Periodic Structures in Layered Media
   * Supervisor: Prof. Qing H Liu
 * B.Sc. in Geophysics, University of Science and Technology of China, 2016
 
 Work experience
 ======
-* Apr 2021 - Mar 2023: University of Michigan
-  * Github University
-  * Duties includes: Updates and improvements to template
+* Apr 2021 - Mar 2023: Postdoctoral Research Fellow
+  * University of Michigan
   * Supervisor: Prof. Eric Michielssen
   
 Selected Publications
