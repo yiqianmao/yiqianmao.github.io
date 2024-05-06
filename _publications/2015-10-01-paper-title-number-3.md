@@ -3,7 +3,7 @@ title: "A Simple Way of Applying the Calderón Preconditioner to a Finite-Elemen
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2023-04-28
+date: 2023-06-01
 venue: 'IEEE TAP'
 paperurl: 'https://ieeexplore.ieee.org/document/10112651'
 citation: 'Yiqian Mao et al. (2023). &quot;A Simple Way of Applying the Calderón Preconditioner to a Finite-Element Boundary-Integral Method.&quot; <i>IEEE TAP</i>. 71(6).'

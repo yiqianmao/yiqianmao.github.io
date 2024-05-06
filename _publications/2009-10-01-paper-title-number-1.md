@@ -3,7 +3,7 @@ title: "Calderon preconditioned spectral-element spectral-integral method for do
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2020-07
+date: 2020-07-01
 venue: 'IEEE TAP'
 paperurl: 'https://ieeexplore.ieee.org/document/9024232'
 citation: 'Yiqian Mao et al. (2020). &quot;Calderon preconditioned spectral-element spectral-integral method for doubly periodic structures in layered media.&quot; <i>IEEE TAP</i>. 68(7).'
