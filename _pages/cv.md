@@ -11,37 +11,19 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Electrical and Computer Engineering, Duke University, 2020
+  * Dissertation: Fast Electromagnetic Simulation for Large-Scale Modeling of Doubly Periodic Structures in Layered Media
+  * Supervisor: Prof. Qing H Liu
+* B.Sc. in Geophysics, University of Science and Technology of China, 2016
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
+* Apr 2021 - Mar 2023: University of Michigan
   * Github University
   * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Prof. Eric Michielssen
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
+Selected Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -55,10 +37,23 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* Fall 2020: TA, Human Centered Computing
+  * Duke University
+  * Duties includes: Lead discussion sessions, grade homework
+  * Lecturer: Prof. Shaundra Daily
+
+* Spring 2019: TA, Optical Communication Systems
+  * Duke University
+  * Duties includes: Grade homework, hold office hours
+  * Lecturer: Prof. William T. Joines
+
+* Fall 2014/2015: TA, Mechanics
+  * University of Science and Technology of China
+  * Duties includes: Grade homework, hold office hours
+  * Lecturer: Prof. Yi Wang
+
+Academic Service
 ======
-* Currently signed in to 43 different slack teams
+  * Peer reviewer for IEEE TAP, IEEE TGRS, JMMCT, etc.
+  * Special session chair for ACES-China.
+
