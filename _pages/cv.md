@@ -55,5 +55,5 @@ Teaching
 Academic Service
 ======
   * Peer reviewer for IEEE TAP, IEEE TGRS, JMMCT, etc.
-  * Special session chair for ACES-China.
+  * Special session chair for ACES-China
 
