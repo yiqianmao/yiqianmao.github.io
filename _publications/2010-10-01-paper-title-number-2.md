@@ -2,7 +2,7 @@
 title: "Fast Simulation of Electromagnetic Fields in Doubly Periodic Structures With a Deep Fully Convolutional Network"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'This work applies modified U-Net for real-time computation of periodic EM scattering.'
 date: 2021-05-01
 venue: 'IEEE TAP'
 paperurl: 'https://ieeexplore.ieee.org/document/9269359'

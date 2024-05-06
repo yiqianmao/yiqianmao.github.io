@@ -2,7 +2,7 @@
 title: "A Simple Way of Applying the Calderón Preconditioner to a Finite-Element Boundary-Integral Method"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'This paper proposes a more flexible way to incorporate the Calderón Preconditioner into conventional FEBI framework.'
 date: 2023-06-01
 venue: 'IEEE TAP'
 paperurl: 'https://ieeexplore.ieee.org/document/10112651'

@@ -2,7 +2,7 @@
 title: "Wigner–Smith Time-Delay Matrix for Electromagnetics: Guiding and Periodic Systems With Evanescent Modes"
 collection: publications
 permalink: /publication/2024-05-17-paper-title-number-5
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: 'This paper generalizes the WS theory to support evanescent waves and periodic systems.'
 date: 2023-05-01
 venue: 'IEEE TAP'
 paperurl: 'https://ieeexplore.ieee.org/document/10058147'

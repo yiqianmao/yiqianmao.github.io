@@ -2,7 +2,7 @@
 title: "Mesh-Splitting Impedance Transition Boundary Condition for Accurate Modeling of Thin Structures"
 collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: 'This paper describes a modification to the ITBC, leading to significant accuracy improvement.'
 date: 2023-05-01
 venue: 'IEEE TAP'
 paperurl: 'https://ieeexplore.ieee.org/document/10045742'
